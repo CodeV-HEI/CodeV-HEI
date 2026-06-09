@@ -1,50 +1,57 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/257940628?s=200&v=4" alt="CodeV-HEI Logo" width="120" />
-  <h1>Bienvenue chez CodeV-HEI 👋</h1>
-  <p><b>Création de solutions numériques innovantes et d'applications modernes</b></p>
+  <img src="https://avatars.githubusercontent.com/u/257940628?s=200&v=4" alt="CodeV-HEI Logo" width="150" />
+  <h1>🚀 Bienvenue chez CodeV-HEI</h1>
+  <p><strong>Organisation collaborative des étudiants de la Haute École d'Informatique (HEI), Madagascar</strong></p>
 </div>
 
 ---
 
-## 🚀 À propos de nous
-**CodeV-HEI** est une organisation regroupant des développeurs passionnés, axée sur la conception, le développement et le déploiement d'applications web et mobiles. Notre objectif est de construire des projets open-source et des solutions logicielles concrètes (SaaS, billetterie, gestion financière, e-commerce) en utilisant les meilleures pratiques de l'ingénierie logicielle.
+## 📖 À propos de nous
 
-## 💻 Notre Stack Technique Principale
-Nous utilisons un large éventail de technologies modernes pour donner vie à nos projets :
-- **Langages :** TypeScript, Java, Python, C, CSS/Sass
-- **Écosystème JS/TS :** React, Node.js, Express, Next.js (utilisés dans nos apps frontend et API)
-- **Outils & Infrastructure :** Git, GitHub Actions, Docker
+**CodeV-HEI** est une organisation GitHub dédiée aux projets de développement collaboratifs. Notre objectif est de concevoir des solutions logicielles innovantes allant des applications web modernes aux systèmes backend robustes, tout en promouvant l'excellence technique et le travail en équipe au sein de l'écosystème logiciel.
 
-## 🌟 Nos Projets Phares
+---
 
-Voici quelques-uns de nos principaux dépôts et projets sur lesquels nous travaillons :
+## 💻 Langages et Technologies Utilisés
 
-### 🎟️ Tapakila
-Une plateforme complète de billetterie événementielle permettant aux utilisateurs de parcourir des événements, de réserver des billets et de gérer leurs réservations.
-- [**Tapakila-App**](https://github.com/CodeV-HEI/Tapakila-App) : Application côté client.
-- [**Tapakila-Admin-App**](https://github.com/CodeV-HEI/Tapakila-Admin-App) : Plateforme d'administration dédiée à la gestion des événements (création, modification, suivi des billets).
+Notre organisation s'appuie sur une stack technologique variée, adaptée aux besoins spécifiques de chaque projet :
 
-### 💰 Tantano
-Une solution d'enregistrement et de gestion des événements financiers.
-- [**Tantano**](https://github.com/CodeV-HEI/Tantano) : Interface utilisateur de l'application.
-- [**Tantano-api**](https://github.com/CodeV-HEI/Tantano-api) : L'API robuste propulsant le système financier.
+### Langages Principaux
+- **TypeScript / JavaScript** : Le cœur de nos applications web et de nos API (majoritairement utilisés).
+- **Java** : Utilisé pour des solutions logicielles orientées objet et des architectures backend (ex: *Poja-codev*).
+- **C & Rust** : Pour les systèmes nécessitant des performances bas niveau et des bibliothèques hautement optimisées (ex: *secp256k1*, *zephyr*).
+- **CSS / SCSS** : Pour l'intégration et le design web.
 
-### ☕ Projets Templates & Autres
-- [**e-coffee--template**](https://github.com/CodeV-HEI/e-coffee--template) : Un modèle de e-CoffeeShop permettant de commander et de se faire livrer du café.
-- [**Lotus**](https://github.com/CodeV-HEI/Lotus) : Site web vitrine pour "Le Lotus bungalow".
-- [**Poja-codev**](https://github.com/CodeV-HEI/Poja-codev) : Composants et base de développement en Java.
+### Écosystème & Frameworks
+- **Frontend** : React.js, Next.js, Tailwind CSS
+- **Backend & API** : Node.js (APIs RESTful)
+- **Outils Collaboratifs & Déploiement** : Git, GitHub Actions, Docker
 
-## 🤝 Contribuer
-Les contributions, les problèmes (issues) et les demandes d'intégration (pull requests) sont les bienvenus ! N'hésitez pas à consulter nos différents dépôts pour voir comment vous pouvez aider.
+---
 
-1. Forkez le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
+## 🌟 Projets Phares
+
+Voici un aperçu de nos dépôts les plus populaires et de nos réalisations :
+
+* 💰 **[Tantano](https://github.com/CodeV-HEI/Tantano) & [Tantano-api](https://github.com/CodeV-HEI/Tantano-api)** : Une application complète (Frontend et API) d'enregistrement d'événements financiers.
+* 🎫 **[Tapakila-App](https://github.com/CodeV-HEI/Tapakila-App)** : Une plateforme moderne de billetterie événementielle pour parcourir, réserver et gérer des billets.
+* 🛠️ **[Tapakila-Admin-App](https://github.com/CodeV-HEI/Tapakila-Admin-App)** : Interface d'administration back-office pour la création et la gestion des événements de la plateforme Tapakila.
+* ☕ **[e-coffee--template](https://github.com/CodeV-HEI/e-coffee--template)** : Template pour une application e-commerce de type CoffeeShop permettant la commande et la livraison de café.
+* 🏖️ **[Lotus](https://github.com/CodeV-HEI/Lotus)** : Site web vitrine développé pour "Le Lotus bungalow".
+
+---
+
+## 🤝 Contribution
+
+Nous encourageons la collaboration et l'apprentissage mutuel. Si vous souhaitez contribuer à l'un de nos projets :
+1. Forkez le dépôt qui vous intéresse.
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/NouvelleFonctionnalite`).
+3. Commitez vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`).
+4. Poussez vers la branche (`git push origin feature/NouvelleFonctionnalite`).
+5. Ouvrez une **Pull Request** !
 
 ---
 
 <div align="center">
-  <i>Développé avec ❤️ par l'équipe CodeV-HEI</i>
+  <i>Développé avec passion par l'équipe CodeV-HEI.</i>
 </div>
