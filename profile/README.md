@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/257940628?s=200&v=4" alt="CodeV-HEI Logo" width="150" />
-  <h1>🚀 Bienvenue chez CodeV-HEI</h1>
+  <img src="https://avatars.githubusercontent.com/u/257940628?s=200&v=4" alt="CodeV Logo" width="150" />
+  <h1>🚀 Bienvenue chez CodeV</h1>
   <p><strong>Organisation collaborative des étudiants de la Haute École d'Informatique (HEI), Madagascar</strong></p>
 </div>
 
